@@ -7,4 +7,5 @@ package com.bjpowernode;
 public class person {
     private String name;
     private String id;
+    private String age;
 }
